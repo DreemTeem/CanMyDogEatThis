@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Can My Dog Eat This</string>
+    <string name="hello_round">YES</string>
+    <string name="hello_square">YES</string>
+</resources>
